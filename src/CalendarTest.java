@@ -1,4 +1,4 @@
-public class CalendarTest {
+class CalendarTest {
 
     public static void main(String[] args) {
 
